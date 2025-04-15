@@ -46,7 +46,7 @@ Evaluation was performed using confusion matrices, classification metrics, and v
 ### Languages:
 - Python
 
-###Libraries:
+### Libraries:
 - NumPy
 - Pandas
 - Matplotlib
@@ -99,8 +99,8 @@ The **SVM** model outperformed others with an accuracy of **99.94%**, making it 
 
 
 ## Co-Authors  
-- [@Jay-1232]  
-- Supervised by: Prof. Swati Pandey
+- [@Jay-1232](https://github.com/jay-1232)
+- Supervised by: **Prof. Swati Pandey**
 
 
 ## License
